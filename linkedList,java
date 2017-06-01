@@ -1,0 +1,15 @@
+import java.util.*;
+
+public class linkedList(){
+
+public static void main(String[] args){
+LinkedList x = new LinkedList();
+String s1 = "FOLLOW UP";
+x.addall(s1);
+
+
+
+
+
+}
+}
